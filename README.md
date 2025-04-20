@@ -1,11 +1,11 @@
 ---
 
- # Ineferatech AI
+# Inferatech AI
 
 **Inference-first. Infrastructure-free. Precision at scale.**
 
 Inferatech AI is a next-generation inference orchestration platform designed for model developers and ML engineers who require secure, low-latency, and usage-based inference on custom LLMs. Upload your trained language models and leverage our token-metered API layer to run inference in our secure, isolated compute environments.
----
+
 
 ## 🧠 What We Do
 
