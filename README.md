@@ -1,6 +1,6 @@
 ---
 
-## Inferatech AI
+## 🧠 What We Do
 
 **Inference-first. Infrastructure-free. Precision at scale.**
 
