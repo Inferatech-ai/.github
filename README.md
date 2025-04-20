@@ -116,7 +116,24 @@ POST https://api.inferatech.io/v1/infer
   Quickly evaluate multiple LLMs on the same prompts for output quality, latency, and cost comparisons.
 
 ---
+## 🔬 Innovation-Driven Engineering
 
+# Inferatech hardware integrates:
+
+ - Advanced process nodes (3nm, 5nm)
+
+ - HBM2e / HBM3 memory stacks
+
+ - PCIe Gen5 / NVLink interconnects
+
+ - Custom thermal designs for 24/7 reliability
+
+ - Embedded matrix compute units & AI-specific logic
+
+ - FPGA-enhanced pipelines for low-latency inference
+
+
+---
 ## 📊 Billing & Metering
 
 All inference is billed **per token**, with transparent logs accessible via your dashboard. Pricing varies by model size and runtime duration but always follows these principles:
