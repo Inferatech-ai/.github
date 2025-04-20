@@ -194,8 +194,30 @@ Inferatech is not a hosting provider. We are a **stateless execution layer** for
 
 
 <p align="center">
-  <a href="https://inferatech-ai.github.io/service" target="_blank">
-    <img src="https://img.shields.io/badge/Try%20Inferatech%20Now-Upload%20Your%20Model-blueviolet?style=for-the-badge&logo=rocket" alt="Try Inferatech Now"/>
+  <a href="https://inferatech-ai.github.io/service" target="_blank" style="text-decoration: none;">
+    <button style="
+      background: linear-gradient(135deg, #7b3fe4, #5936b4);
+      border: none;
+      border-radius: 8px;
+      color: white;
+      padding: 14px 28px;
+      font-size: 18px;
+      font-weight: bold;
+      cursor: pointer;
+      box-shadow: 0 4px 14px rgba(0, 0, 0, 0.25);
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+      animation: pulse 2s infinite;
+    ">
+      Try it NOW
+    </button>
   </a>
 </p>
+
+<style>
+@keyframes pulse {
+  0% { transform: scale(1); box-shadow: 0 0 0 rgba(123, 63, 228, 0.7); }
+  50% { transform: scale(1.05); box-shadow: 0 0 16px rgba(123, 63, 228, 0.5); }
+  100% { transform: scale(1); box-shadow: 0 0 0 rgba(123, 63, 228, 0.7); }
+}
+</style>
 
