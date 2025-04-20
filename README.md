@@ -191,4 +191,11 @@ Inferatech is not a hosting provider. We are a **stateless execution layer** for
 ---
 
 **Welcome to the future of lightweight inference. Welcome to Inferatech AI.**
-```
+
+
+<p align="center">
+  <a href="https://inferatech-ai.github.io/service" target="_blank">
+    <img src="https://img.shields.io/badge/Try%20Inferatech%20Now-Upload%20Your%20Model-blueviolet?style=for-the-badge&logo=rocket" alt="Try Inferatech Now"/>
+  </a>
+</p>
+
