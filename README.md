@@ -1,6 +1,6 @@
 ---
 
-# Inferatech AI
+## Inferatech AI
 
 **Inference-first. Infrastructure-free. Precision at scale.**
 
